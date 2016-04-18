@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./amoenitateslite00schgoog_0357.png"; bbox 0 0 2267 3850; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 19 277 1104 514">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 19 242 1104 538">
+     <span class='ocr_line' id='line_1_1' title="bbox 19 277 1104 514; baseline 0.01 16"><span class='ocrx_word' id='word_1_1' title='bbox 19 328 306 514; x_wconf 70' lang='lat'>1.</span> <span class='ocrx_word' id='word_1_2' title='bbox 496 277 558 308; x_wconf 77' lang='grc'>”</span> <span class='ocrx_word' id='word_1_3' title='bbox 976 309 1104 438; x_wconf 70' lang='lat'><strong>³</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 21 1149 1116 2069">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 21 1091 1116 2069">
+     <span class='ocr_line' id='line_1_2' title="bbox 126 1149 926 1383; baseline -0.008 -46.729"><span class='ocrx_word' id='word_1_4' title='bbox 126 1149 131 1161; x_wconf 83' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 293 1171 926 1383; x_wconf 70' lang='lat' dir='ltr'><em>APULEJHS.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 21 1470 1093 1668; baseline 0.009 -13"><span class='ocrx_word' id='word_1_6' title='bbox 21 1519 36 1652; x_wconf 67' lang='lat' dir='ltr'><em>ss</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 163 1470 468 1668; x_wconf 88' lang='lat' dir='ltr'>Omnibus</span> <span class='ocrx_word' id='word_1_8' title='bbox 486 1529 661 1658; x_wconf 88' lang='lat' dir='ltr'>bonis</span> <span class='ocrx_word' id='word_1_9' title='bbox 677 1478 1093 1665; x_wconf 51' lang='lat' dir='ltr'><strong>in&#39;rebuscoe</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 210 1694 1051 1858; baseline 0.005 -28"><span class='ocrx_word' id='word_1_10' title='bbox 210 1729 413 1830; x_wconf 84' lang='lat' dir='ltr'>-natus</span> <span class='ocrx_word' id='word_1_11' title='bbox 446 1697 505 1823; x_wconf 90' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_12' title='bbox 540 1695 753 1858; x_wconf 84' lang='lat' dir='ltr'>laude,</span> <span class='ocrx_word' id='word_1_13' title='bbox 799 1694 1051 1834; x_wconf 51' lang='lat' dir='ltr'>effeetus</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 133 1798 1116 2069; baseline 0.009 -76"><span class='ocrx_word' id='word_1_14' title='bbox 133 1879 136 1885; x_wconf 80' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 240 1861 462 2069; x_wconf 81' lang='lat' dir='ltr'>incasu</span> <span class='ocrx_word' id='word_1_16' title='bbox 481 1865 577 2013; x_wconf 67' lang='lat' dir='ltr'>est„</span> <span class='ocrx_word' id='word_1_17' title='bbox 715 2043 718 2049; x_wconf 13' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_18' title='bbox 1112 1798 1116 2048; x_wconf 76' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1138 3850">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1138 3850">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1138 3850; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 0 0 1138 3850; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
